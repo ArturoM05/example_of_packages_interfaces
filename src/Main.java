@@ -1,4 +1,3 @@
-// Main.java
 import beings.creators.LivingBeingCreator;
 import beings.of.the.earth.Animal;
 import beings.of.the.earth.Human;
